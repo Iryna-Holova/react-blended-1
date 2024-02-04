@@ -1,11 +1,11 @@
 # Task 1 - Blog Card
-[a relative link](task#1.md)
+[Description](./task%231.md)
 
 # Task 2 - Statistics
-[a relative link](task#2.md)
+[Description](./task%232.md)
 
 # Task 3 - Forbes List
-[a relative link](task#3.md)
+[Description](./task%233.md)
 
 # Task 4 - Crypto History
-[a relative link](task#4.md)
+[Description](./task%234.md)
